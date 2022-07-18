@@ -1,6 +1,6 @@
-slotmachine.pxd
-background.pxd
-symbols.pxd
+/slotmachine.pxd
+/background.pxd
+/symbols.pxd
 .DS_Store
-venv
-__pycache__
+/__pycache__
+/old
